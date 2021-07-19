@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ListFactory
+comment0.text=\n\ This\ class\ provides\ lists\ of\ ints\n\n\ @author\ David\n\ @version\ 3/29/18\n
+comment1.params=size
+comment1.target=int[]\ getList(int)
+comment1.text=\n\ Produces\ a\ list\ of\ integers\n\ @param\ size\ the\ length\ of\ the\ list\n\ @return\ a\ list\ of\ the\ specified\ size\n
+comment2.params=list
+comment2.target=void\ print(int[])
+comment2.text=\n\ Prints\ the\ contents\ in\ the\ list.\n\ @param\ list\ an\ integer\ array\n
+comment3.params=list
+comment3.target=void\ shuffle(int[])
+comment3.text=\n\ Shuffles\ the\ items\ around\ in\ the\ given\ array\n\ @param\ list\ \ an\ integer\ array\n
+numComments=4
